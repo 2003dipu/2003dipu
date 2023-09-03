@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Dipu Singha
-- 👀 I’m interested in Python computer programming language
+- 👀 I’m interested in Python computer programming language.
+- I try to achieve everything with Python and Machine Learning
 - 🌱 I’m currently learning Python, C++ and Java because these are the 3 most different programming languages. 
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me ... my email : hunabopa@gmail.com
